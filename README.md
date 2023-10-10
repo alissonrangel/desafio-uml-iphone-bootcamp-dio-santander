@@ -13,3 +13,6 @@
 - Criei uma interface extra, que foi a de AparelhoFotográfico, visto que achei ser um recurso relevante do Iphone;
 - Adicionei outros métodos que achei relevante;
 - No diagrama, eu usei setas tracejadas, pois as setas tracejadas indicam que ocorre uma implementação de uma interface.
+
+### Diagrama de Classes
+<img src="diag_classes_iphone.jpg" alt="Diagrama de Classes" style="height: 280px; width:420px;"/>
